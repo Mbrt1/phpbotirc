@@ -1,0 +1,6 @@
+{
+  "name": "ircb",
+  "description": "Jircbot",
+  "repository": "https://github.com/Mbrt1/phpbotirc",
+  "keywords": ["irc bot", "messaging api"]
+}
