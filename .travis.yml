@@ -1,2 +1,4 @@
 language: php
+php:
+  - 7.1.9
 install: php index.php
